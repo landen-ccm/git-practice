@@ -1,11 +1,11 @@
 <script setup>
-import { ref } from 'vue'
+import { ref } from "vue";
 
 defineProps({
   msg: String,
-})
+});
 
-const count = ref(0)
+const count = ref(0);
 </script>
 
 <template>
@@ -16,6 +16,12 @@ const count = ref(0)
     <p>
       Edit
       <code>components/HelloWorld.vue</code> to test HMR
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, est
+      doloremque. Dolorem esse nisi quasi in, blanditiis perferendis eveniet
+      nemo ullam odit rerum consequatur modi commodi voluptas atque error
+      nesciunt!
     </p>
   </div>
 
