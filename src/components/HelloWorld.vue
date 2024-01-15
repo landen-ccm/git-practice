@@ -1,22 +1,21 @@
 <script setup>
-import { ref } from 'vue'
+import { ref } from "vue";
 
 defineProps({
-   msg: String,
-})
+  msg: String,
+});
 
-const count = ref(0)
+const count = ref(0);
 </script>
 
 <template>
    <h1>{{ msg }}</h1>
 
-   <div class="card">
-      <p>Landen</p>
-      <p>Landen Again</p>
-      <p>Patrick</p>
-   </div>
   <div class="card">
+    <p>Brandon</p>
+    <p>Landen</p>
+    <p>Landen Again</p>
+    <p>Patrick</p>
     <p>Nick</p>
     <p>Palash</p>
   </div>
