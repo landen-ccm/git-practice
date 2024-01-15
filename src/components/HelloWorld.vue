@@ -13,6 +13,8 @@ const count = ref(0)
 
   <div class="card">
     <p>Patrick</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius repellat eos veritatis, itaque dolore aliquid nostrum dolorem 
+      consequuntur dolores unde dolorum vero ex esse a pariatur obcaecati amet sit dicta.</p>
   </div>
 
   <p>
