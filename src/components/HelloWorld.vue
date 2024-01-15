@@ -13,6 +13,12 @@ const count = ref(0);
 
   <div class="card">
     <p>Grant</p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, est
+      doloremque. Dolorem esse nisi quasi in, blanditiis perferendis eveniet
+      nemo ullam odit rerum consequatur modi commodi voluptas atque error
+      nesciunt!
+    </p>
   </div>
 
   <p>
