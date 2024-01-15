@@ -13,12 +13,6 @@ const count = ref(0)
 
    <div class="card">
       <p>Landen</p>
-      <p>
-         Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam aut
-         voluptate optio dignissimos labore beatae laudantium culpa rerum, eum
-         officia ex delectus molestiae ipsa? Deserunt optio nihil veniam nulla
-         quasi.
-      </p>
    </div>
 
    <p>
