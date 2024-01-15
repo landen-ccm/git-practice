@@ -15,11 +15,12 @@ const count = ref(0)
       <p>Landen</p>
       <p>Landen Again</p>
       <p>Patrick</p>
+      <p>Landen Again Again</p>
    </div>
-  <div class="card">
-    <p>Nick</p>
-    <p>Palash</p>
-  </div>
+   <div class="card">
+      <p>Nick</p>
+      <p>Palash</p>
+   </div>
 
    <p>
       Check out
