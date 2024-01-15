@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import { ref } from 'vue'
 
 defineProps({
@@ -12,7 +12,7 @@ const count = ref(0)
    <h1>{{ msg }}</h1>
 
    <div class="card">
-      <p>Landen</p>
+      <p>Landen C English</p>
    </div>
 
    <p>
