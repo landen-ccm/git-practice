@@ -1,20 +1,19 @@
 <script setup>
-import { ref } from 'vue'
+import { ref } from "vue";
 
 defineProps({
-   msg: String,
-})
+  msg: String,
+});
 
-const count = ref(0)
+const count = ref(0);
 </script>
 
 <template>
    <h1>{{ msg }}</h1>
 
-   <div class="card">
-      <p>Landen</p>
-      <p>Landen Again</p>
-   </div>
+  <div class="card">
+    <p>Brandon</p>
+  </div>
 
    <p>
       Check out
