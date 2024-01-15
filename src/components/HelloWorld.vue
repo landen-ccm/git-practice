@@ -12,11 +12,11 @@ const count = ref(0);
   <h1>{{ msg }}</h1>
 
   <div class="card">
+    <p>Brandon</p>
     <p>Landen</p>
     <p>Landen Again</p>
-    <p>Nick</p>
-    <p>Brandon</p>
     <p>Patrick</p>
+    <p>Nick</p>
     <p>Palash</p>
   </div>
 
