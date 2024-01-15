@@ -17,6 +17,7 @@ const count = ref(0);
     <p>Nick</p>
     <p>Brandon</p>
     <p>Patrick</p>
+    <p>Palash</p>
   </div>
 
   <p>
