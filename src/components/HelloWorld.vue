@@ -21,6 +21,7 @@ const count = ref(0)
   <div class="card">
     <p>Nick</p>
     <p>Palash</p>
+   <p>Sumanth</p>
   </div>
 
    <p>
